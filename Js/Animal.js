@@ -9,4 +9,4 @@ console.log(mySelect.value);
 buildAnimalCard(mySelect.value);
 function buildAnimalCard(testvalue);
     console.log(yeeeee);
-    console.log(testvalue);
+    console.log(test);
